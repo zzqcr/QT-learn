@@ -10,5 +10,4 @@
 实现了本地双人对战，AI对战，局域网联机对战。
 # HTTPserver
 使用 QTcpServer实现HTTP服务器，包括了线程池实现，多线程处理。HTTP协议解析，对学习QT网络通信和多线程有所帮助。
-# tinyVector
-简单c++模板学习、运算符重载知识、vector实现。
+
