@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/baizi.png</file>
+        <file>res/chongqi.png</file>
+        <file>res/fanhui.png</file>
+        <file>res/heizi.png</file>
+        <file>res/icon.png</file>
+        <file>res/qipan.png</file>
+        <file>res/zanting.png</file>
+        <file>res/zhujiemian.png</file>
+        <file>res/bendi.png</file>
+        <file>res/hulianwang.png</file>
+        <file>res/jvyuwang.png</file>
+        <file>res/renji.png</file>
+        <file>res/beijing.jpeg</file>
+        <file>res/host.png</file>
+        <file>res/slave.png</file>
+        <file>res/anniu1.png</file>
+        <file>res/renwu.png</file>
+        <file>res/wenhao.png</file>
+    </qresource>
+</RCC>
