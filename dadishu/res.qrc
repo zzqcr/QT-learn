@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/chuizi_0.png</file>
+        <file>images/chuizi_1.png</file>
+        <file>images/chuizi_2.png</file>
+        <file>images/laoshu_0.png</file>
+        <file>images/laoshu_1.png</file>
+        <file>images/laoshu_2.png</file>
+        <file>images/laoshu_3.png</file>
+        <file>images/laoshu_4.png</file>
+        <file>images/xuanyun.png</file>
+        <file>images/score.png</file>
+        <file>images/timer.png</file>
+        <file>images/forest.png</file>
+        <file>sounds/jiaosheng.wav</file>
+        <file>sounds/qiao.wav</file>
+        <file>images/end.png</file>
+        <file>images/restart.png</file>
+        <file>images/rank.png</file>
+        <file>images/ranks.png</file>
+        <file>images/back.png</file>
+        <file>images/start.png</file>
+        <file>images/start1.png</file>
+        <file>images/rank_btn.png</file>
+    </qresource>
+</RCC>

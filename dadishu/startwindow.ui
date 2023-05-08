@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>StartWindow</class>
+ <widget class="QMainWindow" name="StartWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>841</width>
+    <height>687</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label_xuanyun">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>350</y>
+      <width>72</width>
+      <height>15</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>841</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menukaishi">
+    <property name="title">
+     <string>开始</string>
+    </property>
+    <addaction name="actionrestart"/>
+    <addaction name="separator"/>
+    <addaction name="actionback"/>
+    <addaction name="separator"/>
+    <addaction name="actionesc"/>
+    <addaction name="separator"/>
+   </widget>
+   <widget class="QMenu" name="menu_dif">
+    <property name="title">
+     <string>难度</string>
+    </property>
+    <addaction name="action1"/>
+    <addaction name="separator"/>
+    <addaction name="action2"/>
+    <addaction name="separator"/>
+    <addaction name="action3"/>
+    <addaction name="separator"/>
+    <addaction name="action4"/>
+    <addaction name="separator"/>
+    <addaction name="action5"/>
+    <addaction name="separator"/>
+    <addaction name="action6"/>
+    <addaction name="separator"/>
+    <addaction name="action7"/>
+   </widget>
+   <addaction name="menukaishi"/>
+   <addaction name="menu_dif"/>
+  </widget>
+  <action name="actionrestart">
+   <property name="text">
+    <string>重新开始</string>
+   </property>
+  </action>
+  <action name="actionesc">
+   <property name="text">
+    <string>退出游戏</string>
+   </property>
+  </action>
+  <action name="action1">
+   <property name="text">
+    <string>难度1</string>
+   </property>
+  </action>
+  <action name="action2">
+   <property name="text">
+    <string>难度2</string>
+   </property>
+  </action>
+  <action name="action3">
+   <property name="text">
+    <string>难度3</string>
+   </property>
+  </action>
+  <action name="action4">
+   <property name="text">
+    <string>难度4</string>
+   </property>
+  </action>
+  <action name="action5">
+   <property name="text">
+    <string>难度5</string>
+   </property>
+  </action>
+  <action name="action6">
+   <property name="text">
+    <string>难度6</string>
+   </property>
+  </action>
+  <action name="action7">
+   <property name="text">
+    <string>难度7</string>
+   </property>
+  </action>
+  <action name="actionback">
+   <property name="text">
+    <string>返回菜单</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
